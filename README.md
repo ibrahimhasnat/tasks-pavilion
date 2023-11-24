@@ -2,6 +2,8 @@
 
 Welcome to **Tasks Pavilion**, a simple FastAPI-based API for managing tasks. This API provides basic functionalities for creating, reading, updating, and deleting tasks, along with the ability to filter tasks by label and priority.
 
+**[Explore API with Swagger UI](https://tasks-pavilion.onrender.com/docs)**
+
 ## Features
 
 - **Create Task:** Create a new task by sending a POST request to `/api/tasks/`.
